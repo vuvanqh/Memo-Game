@@ -1,0 +1,9 @@
+﻿  memory_app.cpp
+C:\Users\Hoang\Desktop\Uni\Semester 4\PIGE\MemoryGame\MemoryGame\board.h(25,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'memory_app.cpp')
+  
+C:\Users\Hoang\Desktop\Uni\Semester 4\PIGE\MemoryGame\MemoryGame\memory_app.h(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'memory_app.cpp')
+  
+C:\Users\Hoang\Desktop\Uni\Semester 4\PIGE\MemoryGame\MemoryGame\memory_app.cpp(145,10): warning C4101: 'b': unreferenced local variable
+  MemoryGame.vcxproj -> C:\Users\Hoang\Desktop\Uni\Semester 4\PIGE\MemoryGame\x64\Debug\MemoryGame.exe
